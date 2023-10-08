@@ -6,7 +6,6 @@ USERS = {
 }
 
 def get_users_online(date):
-    # Mock: Return a random number or fetch from database
     return 34
 
 def get_user_online_status(user_id, date):

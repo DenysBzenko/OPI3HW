@@ -1,7 +1,5 @@
 def predict_users_online(date):
-    # Mock: Return a random number or use some prediction algorithm based on historical data
     return 31
-
 def predict_user_online(user_id, date, tolerance):
     if user_id not in USERS:
         return None, None
