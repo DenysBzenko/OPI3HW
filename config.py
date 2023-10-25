@@ -1,1 +1,2 @@
+#config
 DEBUG = True
